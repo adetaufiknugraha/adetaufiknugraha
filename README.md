@@ -1,5 +1,5 @@
-## Assalamualaikum, Saya Taufik Nugraha 👋
-![adetaufik](img/download.jpg)
+## Assalamualaikum
+![adetaufik](img/github-header-image.png)
 
 
 <!--
